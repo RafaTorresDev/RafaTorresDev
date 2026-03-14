@@ -3,7 +3,7 @@
 🚀 **Student Software Engineer | Java Specialist & Python**  
 🇧🇷 Brazil
 
-I’m a **Computer Science student** and a **future Software Engineer**, currently focused on building my skills with **Java**.
+I’m a **Computer Science student** and a **future Software Engineer**, currently focused on building my skills with **Java** and **Python**.
 
 I enjoy learning how software works under the hood and improving my understanding of **object-oriented programming, clean code, and backend development**. Most of my time is spent studying, experimenting with projects, and practicing problem solving.
 
