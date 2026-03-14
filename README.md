@@ -14,7 +14,7 @@ I’m interested in **software development, SaaS, and tech entrepreneurship**, a
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/RafaTorresDev">
     <img src="https://img.shields.io/badge/GitHub-RAFATORRESDEV-181717?style=for-the-badge&logo=github" />
   </a>
   <a href = "https://www.linkedin.com/in/rafael-torres-0399a5254/">
