@@ -1,89 +1,51 @@
-# Hi 👋, I'm Rafael Torres
+# Olá, eu sou o Rafael Torres 👋
 
-🚀 **Student Software Engineer | Java Specialist & Python**  
-🇧🇷 Brazil
+### Desenvolvedor Backend Java | Estudante de Ciência da Computação
 
-I’m a **Computer Science student** and a **future Software Engineer**, currently focused on building my skills with **Java** and **Python**.
+Construindo APIs REST e sistemas backend com Java e Spring Boot.
+Também estudo Python aplicado a automação de processos.
 
-I enjoy learning how software works under the hood and improving my understanding of **object-oriented programming, clean code, and backend development**. Most of my time is spent studying, experimenting with projects, and practicing problem solving.
-
-I’m interested in **software development, SaaS, and tech entrepreneurship**, and I like sharing what I learn while I continue growing as a developer.
-
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/RafaTorresDev">
-    <img src="https://img.shields.io/badge/GitHub-RAFATORRESDEV-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href = "https://www.linkedin.com/in/rafael-torres-0399a5254/">
-    <img src="https://img.shields.io/badge/LinkedIn-RAFAELTORRES?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  <a href="https://www.instagram.com/rafa.torres16/">
-    <img src="https://img.shields.io/badge/Instagram-@RAFA.TORRES16-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-RafaTorresDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaTorresDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-torres-0399a5254/)
+[![Instagram](https://img.shields.io/badge/Instagram-rafa.torres16-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.torres16/)
 
 ---
 
-##🧠 What I do
+### Sobre mim
 
--☕ Learning and building projects with Java
-
--🔧 Developing REST APIs and backend services
-
--🗄️ Working with databases and data modeling
-
--🧩 Practicing clean code and object-oriented programming
-
--🚀 Exploring how SaaS applications are built
-
--📚 Studying software architecture and backend engineering
-
--🛠️ Building projects to improve my problem-solving and development skills
+Foco atual: desenvolvimento de APIs REST com Java e Spring Boot.  
+Estudando arquitetura de software, Clean Code e princípios SOLID.  
+Interesse em backend, SaaS e automação de processos.  
+Aberto a oportunidades de estágio e vagas júnior em desenvolvimento backend.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
+### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### DevOps & Tools
-
-![Hibernete](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### Projetos em destaque
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RafaTorresDev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTorresDev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Sistema Financeiro (FinTrack)](https://github.com/RafaTorresDev/Sistema-Financeiro) | Aplicação web full-stack para controle de finanças pessoais, com deploy em produção. | Java, Spring Boot, MySQL, React |
+| [NF-e Batch Processor](https://github.com/RafaTorresDev/nfe-batch-processor) | Pipeline de automação que valida lotes de Notas Fiscais Eletrônicas e gera relatórios Excel. | Python, openpyxl, pytest |
+| [Sistema de Academia](https://github.com/RafaTorresDev/Projeto-Academia) | Sistema em Java aplicando POO para gestão de alunos e planos de academia. | Java, POO |
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+### Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RafaTorresDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTorresDev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Aberto a conversar sobre oportunidades de estágio e desenvolvimento backend Java.*
