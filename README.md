@@ -13,10 +13,13 @@ Também estudo Python aplicado a automação de processos.
 
 ### Sobre mim
 
-Foco atual: desenvolvimento de APIs REST com Java e Spring Boot.  
-Estudando arquitetura de software, Clean Code e princípios SOLID.  
-Interesse em backend, SaaS e automação de processos.  
-Aberto a oportunidades de estágio e vagas júnior em desenvolvimento backend.
+Rafael
+
+Estudante de ADS (UCB), backend júnior em Brasília-DF.
+
+Foco atual: APIs REST com Java e Spring Boot, e Python para backend e automação.
+Projetos: FinTrack e python-treino.
+Aberto a: estágio e vaga júnior em desenvolvimento backend.
 
 ---
 
@@ -41,4 +44,4 @@ Aberto a oportunidades de estágio e vagas júnior em desenvolvimento backend.
 
 ---
 
-*Aberto a conversar sobre oportunidades de estágio e desenvolvimento backend Java.*
+*Aberto a conversar sobre oportunidades de estágio e desenvolvimento backend.*
