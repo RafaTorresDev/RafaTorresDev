@@ -1,6 +1,6 @@
 # Olá, eu sou o Rafael Torres 👋
 
-### Desenvolvedor Backend Java | Estudante de Ciência da Computação
+### Desenvolvedor Backend | Estudante de Ciência da Computação
 
 Construindo APIs REST e sistemas backend com Java e Spring Boot.
 Também estudo Python aplicado a automação de processos.
