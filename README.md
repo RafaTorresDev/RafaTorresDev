@@ -1,13 +1,12 @@
 # Olá, eu sou o Rafael Torres 👋
 
-### Desenvolvedor Backend | Estudante de Ciência da Computação
+### Desenvolvedor Backend | Estudante de Análise e Desenvolvimento de Sistemas
 
 Construindo APIs REST e sistemas backend com Java e Spring Boot.
 Também estudo Python aplicado a automação de processos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RafaTorresDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaTorresDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-torres-0399a5254/)
-[![Instagram](https://img.shields.io/badge/Instagram-rafa.torres16-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.torres16/)
 
 ---
 
@@ -40,7 +39,7 @@ Aberto a: estágio e vaga júnior em desenvolvimento backend.
 |---|---|---|
 | [Sistema Financeiro (FinTrack)](https://github.com/RafaTorresDev/Sistema-Financeiro) | Aplicação web full-stack para controle de finanças pessoais, com deploy em produção. | Java, Spring Boot, MySQL, React |
 | [NF-e Batch Processor](https://github.com/RafaTorresDev/nfe-batch-processor) | Pipeline de automação que valida lotes de Notas Fiscais Eletrônicas e gera relatórios Excel. | Python, openpyxl, pytest |
-| [Sistema de Academia](https://github.com/RafaTorresDev/Projeto-Academia) | Sistema em Java aplicando POO para gestão de alunos e planos de academia. | Java, POO |
+| [Estudos em Python](https://github.com/RafaTorresDev/python-treinos) | Exercícios resolvidos em python do básico ao avanãdo | Python, POO |
 
 ---
 
